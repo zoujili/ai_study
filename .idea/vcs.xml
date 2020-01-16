@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Deep-Learning-with-TensorFlow-book" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LSTM-video-classification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Video-Classification-CNN-and-LSTM-" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ai_study/Deep-Learning-with-TensorFlow-book" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ai_study/TensorFlow-2.x-Tutorials" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ai_study/emotional_classification_with_rnn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/five-video-classification-methods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rnn_study/emotional_classification_with_rnn" vcs="Git" />
+  </component>
+</project>
